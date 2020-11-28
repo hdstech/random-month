@@ -38,6 +38,13 @@
   color: #61dafb;
 }
 
+a {
+  margin-top: 50px;
+  font-size: medium;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
 button {
   border: 1px solid transparent;
   border-radius: 10px;

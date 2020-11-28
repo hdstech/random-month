@@ -38,6 +38,7 @@ function App() {
           }
         </div>
         <button type="button" onClick={selectMonthClick}><span>Choose your month</span></button>
+        <a onClick={() => setSelectedMonth('')}>Reset</a>
       </header>
     </div>
   );
